@@ -4,6 +4,7 @@ body {
 }
 #title {
   color: black;
+ font-weight: 20;
 }
 #description {
 color: black;
